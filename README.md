@@ -4,4 +4,4 @@ As you will know in the documentation in the project, The Game Of Life is a zero
 
 ### Additional Features
 Even though the game is supposed to be zero-player, although it's still kinda, I allowed the user to set the input, means that he can choose which cells are alive and which ones are dead.
-Plus, you can '''Start''' the game, '''Stop''' it, '''Clear''' it or '''Reset''' it to the last time you clicked '''Start'''.
+Plus, you can _Start_ the game, _Stop_ it, _Clear_ it or _Reset_ it to the last time you clicked _Start_.
